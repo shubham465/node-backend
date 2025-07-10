@@ -8,8 +8,8 @@ A simple Express.js backend for handling video challenge submissions and preview
 
 ## 1. Clone the repository
 
-git clone https://github.com/your-username/gigglle-backend.git
-cd gigglle-backend
+git clone https://github.com/shubham465/node-backend.git
+cd node-backend
 
 ## 2. Run the project
 
