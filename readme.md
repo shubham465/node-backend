@@ -8,13 +8,13 @@ A simple Express.js backend for handling video challenge submissions and preview
 
 ## 1. Clone the repository
 
-git clone https://github.com/shubham465/node-backend.git
-cd node-backend
+* git clone https://github.com/shubham465/node-backend.git
+* cd node-backend
 
 ## 2. Run the project
 
-npm install
-npm start
+* npm install
+* npm start
 
 The server will start on:
 
