@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1752158426269,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158535232,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158552006,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158607343,
+    "video": "test.mp4",
+    "duration": "12",
+    "stickers": [],
+    "challengeId": "1",
+    "status": "pending"
+  },
+  {
+    "id": 1752158639130,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158699052,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158709742,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158724024,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158834836,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158845664,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158897721,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158957446,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158978723,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752158994667,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752159003502,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752159445033,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [
+      "🔥",
+      "🎉"
+    ],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752159507332,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [
+      "🔥",
+      "🎉"
+    ],
+    "challengeId": 1,
+    "status": "pending"
+  },
+  {
+    "id": 1752159627616,
+    "video": "my-awesome-video.mp4",
+    "duration": 14,
+    "stickers": [
+      "🔥",
+      "🎉"
+    ],
+    "challengeId": 1,
+    "status": "pending"
+  }
+]
